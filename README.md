@@ -13,5 +13,5 @@ vagrant up
 create AMI
 
 ```
-packer packer_ec2.json
+packer build packer_ec2.json
 ```
